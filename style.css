@@ -124,6 +124,9 @@ footer p {
 .labs .content-wrapper {
   padding: 30px;
 }
+.child-li {
+  margin-left: 2rem;
+}
 .process {
   border-radius: 5px;
   background-color: #242424;
