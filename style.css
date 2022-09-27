@@ -101,6 +101,12 @@ li {
   cursor: pointer;
   margin-right: 20px;
 }
+.lablink {
+  color: #cfb87b;
+  text-decoration: none;
+  outline: none;
+  border: none;
+}
 
 main {
   min-height: calc(100vh - 219px);
